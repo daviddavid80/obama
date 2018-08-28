@@ -1,0 +1,87 @@
+body#obamafamily1{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/obamafamily1.jpg);
+}
+
+header{
+    color: red;
+    background-color: darkgrey;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+    height: 60px;
+    margin-top: 50px;
+}
+
+a{
+    text-decoration: none;
+}
+li {
+    display: inline;
+    margin-left: 190px;
+    text-align: center;
+    background-color: darkgrey;
+    font-size: 30px;
+    border-color: black;
+}
+footer{
+    color: blue;
+    background-color:black;
+    font-family: cursive;
+    font-size: 40px;
+    height:60px;
+    text-align: center;
+}
+p#family2{
+    height: 150px;
+    width: 700px;
+    font-size: 30px;
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+p#family3{
+    height: 250px;
+    width: 700px;
+    font-size: 30px;
+    background-color: blue;
+    margin-top: 200px;
+    margin-left: 1000px;
+}
+    
+p#family4{
+    height: 200px;
+    width: 800px;
+    font-size: 30px;
+    background-color: red;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+p#family5{
+    height: 200px;
+    width: 1500px;
+    font-size: 30px;
+    background-color: white;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+p#family6{
+    height: 200px;
+    width: 1200px;
+    font-size: 30px;
+    background-color: blue;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+p#family7{
+    height: 150px;
+    width: 120px;
+    font-size: 30px;
+    background-color: red;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-bottom-color: black;
+}

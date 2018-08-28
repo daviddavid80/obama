@@ -1,0 +1,64 @@
+body#obamafamily{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(../img/obamafamily5.jpg);
+    font-family: inherit;
+}
+
+
+div.contactus-title{
+    margin-top: 100px;
+    text-transform: uppercase;
+    color: red;
+    transition: all 4s ease-in-out;
+}
+
+div.contactus-title h1{
+    font-size: 62px;
+    line-height: 20px;
+}
+
+div.contactus-title h1{
+    font-size: 18px;
+}
+
+contact-form{
+    margin-top: 50px;
+    transition: all 4s ease-in-out;
+}
+
+div.form-control{
+    width: 800px;
+    font-size: 20px;
+    color: black;
+    border-bottom: 2px solid grey;
+    outline-color: grey;
+}
+
+textarea#writing {
+    height: 300px;
+    width: 250px;
+    margin-left: 140px;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+}
+li {
+    display: inline;
+    margin-left: 190px;
+    text-align: center;
+    background-color: darkgrey;
+    font-size: 30px;
+    border-color: black;
+}
+footer{
+    color: blue;
+    background-color:black;
+    font-family: cursive;
+    font-size: 40px;
+    height:60px;
+    text-align: center;
+}
